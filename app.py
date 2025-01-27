@@ -8,7 +8,7 @@ from PIL import Image
 # Load the model
 @st.cache_resource
 def load_my_model():
-    return load_model(r"models\clasifing_PLANE_DRONE_model.keras")
+    return load_model("models/clasifing_PLANE_DRONE_model.keras")
 
 model = load_my_model()
 
