@@ -20,7 +20,6 @@ pip install streamlit tensorflow numpy pillow
 
 2️⃣ Run the App:
 
-'''
 streamlit run app.py
 
 3️⃣ Start Classifying!
