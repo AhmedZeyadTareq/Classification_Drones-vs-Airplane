@@ -1,4 +1,4 @@
-#🛩️ AI Plane vs Drone Classifier
+# 🛩️ AI Plane vs Drone Classifier
 🚀 Fast & Accurate Aerial Image Recognition!
 
 Classify images as planes or drones instantly using a deep learning model built with Python and Streamlit.
@@ -32,10 +32,10 @@ streamlit run app.py
 ```
 3️⃣ Start Classifying!
 
-👨‍💻 Developer
-🔹 Ahmed Zeyad Tareq – AI Engineer
-🔹 📷 Instagram: @adlm7
-🔹 🔗 LinkedIn: AhmedZeyadTareq
+👨‍💻 Developer<br>
+🔹 Ahmed Zeyad Tareq – AI Engineer<br>
+🔹 📷 Instagram: @adlm7<br>
+🔹 🔗 LinkedIn: AhmedZeyadTareq<br>
 
 **Try it Online!**
 -----------------
