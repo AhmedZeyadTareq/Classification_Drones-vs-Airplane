@@ -1,4 +1,4 @@
-🛩️ AI Plane vs Drone Classifier
+#🛩️ AI Plane vs Drone Classifier
 🚀 Fast & Accurate Aerial Image Recognition!
 
 Classify images as planes or drones instantly using a deep learning model built with Python and Streamlit.
