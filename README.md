@@ -4,14 +4,17 @@
 Classify images as planes or drones instantly using a deep learning model built with Python and Streamlit.
 
 🎯 Features
-✅ Instant Predictions – Upload an image and get results in seconds.
-✅ Deep Learning Powered – Uses a pre-trained TensorFlow/Keras model.
-✅ User-Friendly – Simple and intuitive Streamlit UI.
-✅ Optimized Performance – Efficient image preprocessing for fast inference.
-✅ Open Source – Modify and improve as needed!
+*✅ Instant Predictions – Upload an image and get results in seconds.
+*✅ Deep Learning Powered – Uses a pre-trained TensorFlow/Keras model.
+*✅ User-Friendly – Simple and intuitive Streamlit UI.
+*✅ Optimized Performance – Efficient image preprocessing for fast inference.
+*✅ Open Source – Modify and improve as needed!
 
 ⚙ Tech Stack
 🐍 Python | 🧠 TensorFlow/Keras | 📸 Pillow | 🌐 Streamlit
+
+
+
 
 
 **🖥 Getting Started**
