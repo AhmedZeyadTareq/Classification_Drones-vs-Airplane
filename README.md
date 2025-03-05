@@ -26,9 +26,9 @@ streamlit run app.py
 3️⃣ Start Classifying!
 
 👨‍💻 Developer
-🔹 [Your Name] – AI Engineer
-🔹 📷 Instagram: @[YourHandle]
-🔹 🔗 LinkedIn: [Your LinkedIn Profile]
+🔹 Ahmed Zeyad Tareq – AI Engineer
+🔹 📷 Instagram: @adlm7
+🔹 🔗 LinkedIn: AhmedZeyadTareq
 
 ⭐ Support
 Like this project? Give it a star ⭐!
