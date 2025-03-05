@@ -22,7 +22,7 @@ pip install streamlit tensorflow numpy pillow
 
 ```text
 streamlit run app.py
-
+'''
 3️⃣ Start Classifying!
 
 👨‍💻 Developer
