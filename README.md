@@ -16,12 +16,13 @@ Classify images as planes or drones instantly using a deep learning model built 
 🖥 How to Use
 1️⃣ Install Dependencies:
 ```
-`pip install streamlit tensorflow numpy pillow`
+pip install streamlit tensorflow numpy pillow
 ```
 
 2️⃣ Run the App:
+'''
 streamlit run app.py
-
+'''
 3️⃣ Start Classifying!
 
 👨‍💻 Developer
