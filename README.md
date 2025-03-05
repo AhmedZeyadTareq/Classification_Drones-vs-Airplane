@@ -32,10 +32,11 @@ streamlit run app.py
 ```
 3️⃣ Start Classifying!
 
-👨‍💻 Developer<br>
+👨‍💻 Developer:<br>
 🔹 Ahmed Zeyad Tareq – AI Engineer<br>
 🔹 📷 Instagram: @adlm7<br>
-🔹 🔗 LinkedIn: AhmedZeyadTareq<br>
+🔹 🔗 LinkedIn: [AhmedZeyadTareq](https://www.linkedin.com/in/ahmed-zeyad-tareq)<br>
+
 
 **Try it Online!**
 -----------------
