@@ -15,7 +15,8 @@ model = load_my_model()
 # Prediction function
 def predict(image):
     try:
-        img = image.resize((224, 224))  # Resize image
+        img = image.convert("RGB")  # here to make sure png images change to RBG so 3 channels
+        img = img.resize((224, 224))  # Resize image
         img_array = img_to_array(img)
         img_array = np.expand_dims(img_array, axis=0)
         img_arr_proc = preprocess_input(img_array)
