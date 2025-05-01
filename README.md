@@ -32,10 +32,12 @@ streamlit run app.py
 ```
 3️⃣ Start Classifying!
 
-👨‍💻 Developer:<br>
-🔹 Ahmed Zeyad Tareq – AI Engineer<br>
-🔹 📷 Instagram: @adlm7<br>
-🔹 🔗 LinkedIn: [AhmedZeyadTareq](https://www.linkedin.com/in/ahmed-zeyad-tareq)<br>
+
+## 👨‍💻 Developed By
+### **Ahmed Zeyad Tareq**  
+📌 Data Scientist & AI Developer | 🎓 Master of AI Engineering
+- 📞 WhatsApp: +905533333587 
+- [GitHub](https://github.com/AhmedZeyadTareq) | [LinkedIn](https://www.linkedin.com/in/ahmed-zeyad-tareq) | [Kaggle](https://www.kaggle.com/ahmedzeyadtareq)
 
 
 **Try it Online!**
